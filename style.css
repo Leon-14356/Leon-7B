@@ -1,11 +1,25 @@
 /* Change the background of the entire visible page */
 body {
-    background-color: #8a17d6f1; /* Very light grey */
+    background-color: #949197f1; /* Very light grey */
 }
 
 /* Style for all paragraphs */
 p {
-    color: darkgreen;
+    color: rgb(7, 63, 109);
+    font-size: 16px;
+    font-family: 'Monospace', serif;
+}
+
+/* Style for the main heading */
+h1 {
+    text-align: center; /* Change the background of the entire visible page */
+body {
+    background-color: #7a7a7af1; /* Very light grey */
+}
+
+/* Style for all paragraphs */
+p {
+    color: rgb(7, 58, 100);
     font-size: 16px;
     font-family: 'Monospace', serif;
 }
@@ -13,5 +27,5 @@ p {
 /* Style for the main heading */
 h1 {
     text-align: center; /* Puts the heading in the middle */
-    border: 2px solid orange; /* Adds an orange border around the heading */
+    border: 2px solid rgb(7,63,109); /* Adds an orange border around the heading */
     padding: 10px; /* Adds space inside the border */
