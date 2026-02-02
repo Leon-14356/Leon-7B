@@ -1,31 +1,30 @@
-/* Change the background of the entire visible page */
+/* Change background of the entire visible page */
 body {
-    background-color: #949197f1; /* Very light grey */
-}
-
-/* Style for all paragraphs */
-p {
-    color: rgb(7, 63, 109);
-    font-size: 30px;
-    font-family: 'Georgia', serif;
-}
-
-/* Style for the main heading */
-h1 {
-    text-align: center; /* Change the background of the entire visible page */
-body {
-    background-color: #7a7a7af1; /* Very light grey */
+    background-color: #7a7a7af1; 
 }
 
 /* Style for all paragraphs */
 p {
     color: rgb(7, 58, 100);
-    font-size: 30px;
-    font-family: 'Monospace', serif;
+    font-size: 15px;
+    font-family: 'Georgia', serif;
 }
 
 /* Style for the main heading */
 h1 {
-    text-align: center; /* Puts the heading in the middle */
-    border: 5px solid rgb(7,63,109); /* Adds an orange border around the heading */
-    padding: 10px; /* Adds space inside the border */
+    text-align: center; 
+    border: 5px solid rgb(7, 63, 109); 
+    padding: 10px; 
+} 
+
+
+h2 {
+    text-align: center; 
+    border: 5px solid rgb(7, 63, 109); 
+    padding: 10px; 
+}
+h3{
+    text-align: center; 
+    border: 5px solid rgb(7, 63, 109); 
+    padding: 10px; 
+}
